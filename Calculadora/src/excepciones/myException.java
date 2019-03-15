@@ -4,6 +4,7 @@ public class myException extends Exception {
 
 	String mensaje ="";
 	
+	//hola
 	public myException(String mensaje) {
 		super();
 		this.mensaje = mensaje + " estamos en una beca de java";
